@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/morningman-mcp-doris-badge.png)](https://mseep.ai/app/morningman-mcp-doris)
+
 # Apache Doris MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@morningman/mcp-doris)](https://smithery.ai/server/@morningman/mcp-doris)
